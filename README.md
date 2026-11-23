@@ -86,12 +86,3 @@ The programme covered five training tracks:
 **Explore the interactive dashboard here:**
 
 https://datastudio.google.com/u/0/reporting/70bb630e-a09c-4472-9753-9b5173318fc6/page/PMmDG
-
-## Disclaimer
-
-All names included in this project were generated solely for illustrative and educational purposes. They are not intended to represent or identify any real individuals.
-
-Any resemblance between the names or other details used in this project and those of actual persons is purely coincidental and unintentional.
-
-We sincerely apologise to anyone who may find that a name or other detail in this project resembles their own or that of someone they know. No offence, misrepresentation or association with any real individual is intended.
-
