@@ -83,6 +83,8 @@ The programme covered five training tracks:
 
 ## Interactive Dashboard
 
-**Explore the interactive dashboard here:**
+Explore the interactive dashboard for a detailed analysis of the Bright Futures Skills Development Programme.
 
-https://datastudio.google.com/u/0/reporting/70bb630e-a09c-4472-9753-9b5173318fc6/page/PMmDG
+**[View the Nkabom Youth Foundation Programme Impact Dashboard](https://datastudio.google.com/reporting/70bb630e-a09c-4472-9753-9b5173318fc6)**
+
+The dashboard presents insights into participant demographics, regional distribution, training track enrolment, attendance, programme completion and dropout patterns.
