@@ -74,12 +74,12 @@ The programme covered five training tracks:
 
 ## Project Deliverables
 
-- Cleaned and updated Excel dataset workbook.
-- Data cleaning log.
-- Pivot tables and analysis worksheets.
-- Interactive Google Data Studio dashboard.
-- Project findings and recommendations report.
-- Presentation of key findings and recommendations.
+The following documents provide further details about the project:
+
+1. **Cleaned Dataset:** Available in the Dataset folder.
+2. **Project Presentation:** [View Nkabom Youth Foundation Presentation](Presentation/Nkabom_Youth_Foundation_Presentation.pptx)
+3. **Recommendations Report:** [View Programme Recommendations](Recommendations/Nkabom_Youth_Foundation_Recommendations.pdf)
+4. **Interactive Dashboard:** [Explore the Google Data Studio Dashboard](https://datastudio.google.com/reporting/70bb630e-a09c-4472-9753-9b5173318fc6)
 
 ## Interactive Dashboard
 
